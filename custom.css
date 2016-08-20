@@ -1,0 +1,15 @@
+/* Add here all your CSS customizations */
+
+#header .header-logo img {
+    margin: 15px 15px 15px 0;
+    top: 0;
+}
+
+sticky-header-active #header .header-logo img {
+    margin: 15px 15px 15px 0;
+    top: 4px;
+}
+
+.acenter {
+    text-align: center;
+}
